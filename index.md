@@ -10,10 +10,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 <p style="text-align: center; background-color: white;">
-  <a href="{{site.baseurl}}/">HCIM info</a> |
-  <a href="{{site.baseurl}}/hcimproducts/">HCIM Products</a> | 
-  <a href="{{site.baseurl}}/hcimreference/">Reference Documents</a> | 
-  <a href="{{site.baseurl}}/hcimchange/">HCIM Change Request</a> 
+  <a href="{{site.baseurl}}/index.md">HCIM info</a> |
+  <a href="{{site.baseurl}}/hcimproducts.md">HCIM Products</a> | 
+  <a href="{{site.baseurl}}/hcimreference.md">Reference Documents</a> | 
+  <a href="{{site.baseurl}}/hcimchange.md">HCIM Change Request</a> 
 </p>
 
 <p style="text-align: center; background-color: white;">
